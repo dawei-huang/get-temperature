@@ -1,0 +1,29 @@
+body {
+    background-color: #eee;
+}
+
+/*your code here*/
+h1 {
+    font-family: 'Niramit', serif;
+  }
+
+.center-div
+{
+     margin: 0 auto;
+     width: 50%; 
+}
+
+tr {
+    border-bottom: 1px solid #cccccc;
+}
+td, th {
+    padding-bottom: 5px;
+    padding-right: 40px;
+}
+table {
+    border-collapse: collapse;
+}
+
+.pointer {
+    cursor: pointer;
+}
